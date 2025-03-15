@@ -38,16 +38,6 @@ After each image capture, you can add an "Occurrence" by providing student detai
 
 Here's a breakdown of the project structure:
 
-Classroom_monitor/
-│
-├── app.py               # Main application file
-├── requirements.txt     # Project dependencies
-├── data/                # Data folder for images or other data
-├── models/              # Models folder (e.g., YOLOv8 model)
-├── src/                 # Source code files
-├── templates/           # HTML templates
-├── tests/               # Unit tests
-├── utils/               # Utility functions
-├── yolov8n.pt           # YOLOv8 model file
-└── README.md            # Project documentation
+<img width="385" alt="Project_Structure" src="https://github.com/user-attachments/assets/6a8f78bb-5c4f-4ee8-aaa0-aae8fd516ba1" />
+
 
