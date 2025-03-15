@@ -25,9 +25,17 @@ python app.py
    
 **Features**
 
-***Monitor mode:*** The system monitors the classroom and detects cellphones.
-***Ocorrências (Occurrences):**** You can create reports for detected devices and store them in a database.
-***View captured images:*** View and manage captured images from the system.
+***Monitor mode:*** 
+
+The system monitors the classroom and detects cellphones.
+
+***Ocorrências (Occurrences):***
+
+You can create reports for detected devices and store them in a database.
+
+***View captured images:*** 
+
+View and manage captured images from the system.
 
 **Example Workflow**
 
